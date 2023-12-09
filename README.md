@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karmenzind&theme=default" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karmenzind&theme=default" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karmenzind&theme=default" />
   </a>
 </div>
 
