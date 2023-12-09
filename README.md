@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [e-mail](mailto:valesail7@gmail.com) / [Instagram](https://www.instagram.com/6.kmz/?utm_medium=copy_link) / [Telegram](https://t.me/ringo_o)
 -->
 
-- 🔭 I’m currently a programmer using Python/Golang.
+- 🔭 I’m a programmer using Python/Go.
 - 🤔 I’m looking for help with latte art.
 - ⚡  Actually I'm a full-time musician, programming for fun.
 
@@ -43,14 +43,14 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karmenzind&theme=default" />
-  </a>
+<!--   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> -->
+<!--     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karmenzind&theme=default" /> -->
+<!--   </a> -->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karmenzind&theme=default" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karmenzind&theme=default" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karmenzind&theme=default&utcOffset=+8" />
   </a>
 </div>
 
