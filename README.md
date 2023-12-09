@@ -28,17 +28,17 @@ Here are some ideas to get you started:
 <!-- [![telegram](https://img.shields.io/badge/Telegram-yuk__7-blue?style=flat-square&logo=telegram)](https://t.me/yuk_7) -->
 <!-- [![gitee](https://img.shields.io/badge/gitee-karmenzind-red?style=flat-square&logo=gitee)](https://gitee.com/karmenzind) -->
 <!-- [![csdn](https://img.shields.io/badge/CSDN-yuk____7-red?style=flat-square&logo=c)](https://blog.csdn.net/yuk__7) -->
+<!-- [![email](https://img.shields.io/badge/Email-valesail7@gmail.com-red?style=flat-square&logo=gmail)](mailto:valesail7@gmail.com) -->
+<!-- [![GitHub Pages](https://img.shields.io/badge/Blog-karmenzind-red?style=flat-square&logo=githubpages)](https://karmenzind.github.io) -->
+<!-- ![GitHub User's stars](https://img.shields.io/github/stars/karmenzind?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars) -->
 
 <div align="center">
 
   [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![IDE:Vim](https://img.shields.io/badge/IDE-Vim-blue?style=flat-square&logo=vim)](https://vim.org/)
   [![WM:i3wm](https://img.shields.io/badge/WM-i3wm-blue?style=flat-square)](https://i3wm.org)
-
-  ![GitHub User's stars](https://img.shields.io/github/stars/karmenzind?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
-  [![email](https://img.shields.io/badge/Email-valesail7@gmail.com-red?style=flat-square&logo=gmail)](mailto:valesail7@gmail.com)
   [![Gist.GitHub:karmenzind](https://img.shields.io/badge/Gist-karmenzind-red?style=flat-square&logo=GitHub)](https://gist.github.com/karmenzind)
-  [![GitHub Pages](https://img.shields.io/badge/Blog-karmenzind-red?style=flat-square&logo=githubpages)](https://karmenzind.github.io)
+
 
 </div>
 
