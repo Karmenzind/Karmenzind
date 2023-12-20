@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [e-mail](mailto:valesail7@gmail.com) / [Instagram](https://www.instagram.com/6.kmz/?utm_medium=copy_link) / [Telegram](https://t.me/ringo_o)
 -->
 
+<!--
 - 🔭 I’m a programmer using Python/Go.
 - 🤔 I’m looking for help with latte art.
 - ⚡  Actually I'm a full-time musician, programming for fun.
+-->
 
 <!-- ![Counter](https://visitor-badge.glitch.me/badge?page_id=karmenzind.visitor-badge) -->
 <!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/karmenzind?label=GH%20sponsors&style=flat)](https://github.com/sponsors/karmenzind) -->
